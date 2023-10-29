@@ -1,0 +1,4 @@
+0 Oi, Olá
+1 Tudo Bem
+2 Saudade
+3 Quanto Tempo
